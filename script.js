@@ -40,3 +40,7 @@ function confirmBooking() {
   alert(`Booking confirmed for "${selectedMovie}"!\nSeats: ${selectedSeats.join(", ")}`);
 }
 
+
+
+
+ 
