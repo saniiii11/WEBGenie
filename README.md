@@ -1,10 +1,7 @@
 ## Movie Ticket Booking Website
 
 This is a Movie Ticket Booking Platform built using HTML,CSS, and JAVASCRIPT. It allows users to choose a movie from a list and book seats from an interactive layout.
-Features:
--Select from a list of popular movies (with posters)
--Visual seat layout for booking (25 seats per movie)
--Seat selection/deselection with live highlight
+Features:Select from a list of popular movies (with posters),Visual seat layout for booking (25 seats per movie),Seat selection/deselection with live highlight.
 
 ## How to Run
 
