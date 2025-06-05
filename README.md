@@ -1,4 +1,4 @@
- Movie Ticket Booking Website
+## Movie Ticket Booking Website
 
 This is a Movie Ticket Booking Platform built using HTML,CSS, and JAVASCRIPT. It allows users to choose a movie from a list and book seats from an interactive layout.
 Features:
