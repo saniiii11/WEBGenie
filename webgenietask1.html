@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BookMyShow Clone</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🎬 Ticket Booking Platform</h1>
+  </header>
+
+  <main>
+    <h2>Select a Movie</h2>
+    <div class="movie-list">
+      <div class="movie" onclick="selectMovie('Inception')">Inception</div>
+      <div class="movie" onclick="selectMovie('Interstellar')">Interstellar</div>
+      <div class="movie" onclick="selectMovie('Avengers: Endgame')">Avengers: Endgame</div>
+    </div>
+
+    <div id="booking-section" class="hidden">
+      <h2 id="selected-movie-title"></h2>
+      <div class="seats-grid" id="seats-grid">
+      </div>
+      <button onclick="confirmBooking()">Confirm Booking</button>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
